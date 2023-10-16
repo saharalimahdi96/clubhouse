@@ -1,0 +1,27 @@
+[debug] [2023-10-16T19:10:28.432Z] ----------------------------------------------------------------------
+[debug] [2023-10-16T19:10:28.445Z] Command:       /Users/sahar/.nvm/versions/node/v20.6.1/bin/node /Users/sahar/.nvm/versions/node/v20.6.1/bin/firebase init
+[debug] [2023-10-16T19:10:28.446Z] CLI Version:   12.6.0
+[debug] [2023-10-16T19:10:28.446Z] Platform:      darwin
+[debug] [2023-10-16T19:10:28.446Z] Node Version:  v20.6.1
+[debug] [2023-10-16T19:10:28.446Z] Time:          Mon Oct 16 2023 22:40:28 GMT+0330 (Iran Standard Time)
+[debug] [2023-10-16T19:10:28.446Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-16T19:10:28.452Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-10-16T19:10:28.453Z] > authorizing via signed-in user (sahar.alimahdi93@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/sahar/clubhouse-clone
+
+[debug] [2023-10-16T19:10:43.016Z] Error: Timed out.
+    at Timeout._onTimeout (/Users/sahar/.nvm/versions/node/v20.6.1/lib/node_modules/firebase-tools/lib/utils.js:254:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.
